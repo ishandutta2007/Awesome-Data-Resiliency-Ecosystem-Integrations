@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations?style=social&color=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations?style=social&color=white" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -66,9 +66,9 @@ Below is a detailed breakdown of the leading enterprise SaaS marketplaces and in
 
 A curated set of open-source tools, distributed integration engines, and CLI backup runtimes. Organizations leverage these to build transparent, self-hosted, vendor-agnostic data protection workflows without recurring per-connector fees.
 
-Ranked in descending order of community popularity (**GitHub Star Count**):
+Ranked in descending order of community popularity (**GitHub Stars_Count**):
 
-| Project 🛠️ | Community Stars ⭐ | Primary Role & Description 📋 |
+| Project 🛠️ | Community GitHub_Stars ⭐ | Primary Role & Description 📋 |
 |:---|:---|:---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | **Workflow Automation & Visual iPaaS**: Fair-code low-code integration tool with 400+ nodes. Ideal for stitching together backup API triggers, webhooks, Slack incident alerts, and cloud recovery pipelines. |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | **Multi-Cloud Sync & Storage Connector**: The Swiss Army knife of cloud storage data synchronization. Supports 70+ cloud providers (S3, B2, Azure Blob, Google Drive) with encryption, multi-threading, and deduplication. |
@@ -104,7 +104,7 @@ Contributions, suggestions, and corrections are warmly welcomed! 🚀
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-new-integration-tool`).
 3. ✍️ Add the SaaS or Open-Source project entry to `README.md` maintaining the existing schema:
    - For **SaaS**: Name, Description, Company Scale/Valuation, Specific Starting Price, Specific Free Tier/Trial Limits.
-   - For **Open-Source**: Name, Repository Link, Star Badge (`style=social&color=white` linking to stargazers), and descriptive summary.
+   - For **Open-Source**: Name, Repository Link, Stars_Badge (`style=social&color=white` linking to stargazers), and descriptive summary.
 4. 📬 Submit a **Pull Request** with a brief summary of the proposed addition.
 
 ---
