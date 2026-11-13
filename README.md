@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -26,7 +27,10 @@ In modern cloud and enterprise operations, data resiliency goes far beyond point
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Ecosystem Marketplaces](#️-saas--hosted-ecosystem-marketplaces)
 - [🔓 Open-Source GitHub Projects & Connector Frameworks](#-open-source-github-projects--connector-frameworks)
+- [🏗️ Architecture: Composable Open-Source Resiliency Stack](#️-architecture-composable-open-source-resiliency-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -102,6 +106,23 @@ Contributions, suggestions, and corrections are warmly welcomed! 🚀
    - For **SaaS**: Name, Description, Company Scale/Valuation, Specific Starting Price, Specific Free Tier/Trial Limits.
    - For **Open-Source**: Name, Repository Link, Star Badge (`style=social&color=white` linking to stargazers), and descriptive summary.
 4. 📬 Submit a **Pull Request** with a brief summary of the proposed addition.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome Data Resiliency Ecosystem & Integrations** repository! If this resource provides value to your projects, team, or cloud infrastructure planning, please consider supporting the project:
+
+- ⭐️ **Star** this repository to help boost discoverability.
+- 🍴 **Fork** and contribute connectors, integrations, and insights.
+- 📢 **Share** it with fellow DevOps engineers, SREs, and systems architects.
+- ☕ **Buy a coffee**: Sponsor ongoing curation and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Data-Resiliency-Ecosystem-Integrations&type=date&legend=top-left)
 
 ---
 
