@@ -1,6 +1,6 @@
 # Awesome-Data-Resiliency-Ecosystem-Integrations
 
-# Top Data Resiliency Ecosystem & Integrations
+## Top Data Resiliency Ecosystem & Integrations
 
 **Curated List of SaaS Marketplaces & Open-Source Integration Platforms**  
 *Focused on Backup Orchestration, Security Automation & Cross-Platform Data Protection Connectors*  
